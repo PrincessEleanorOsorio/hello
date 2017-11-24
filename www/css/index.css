@@ -1,0 +1,37 @@
+
+        
+h1 {
+    font-size:25px;
+    font-weight:normal;
+    padding:0px;
+    text-align:center;
+}
+
+h2 {
+    font-size:17px;
+    font-weight:normal;
+    padding:0px;
+    text-align:left;
+}
+
+input {
+    font-size: 17px;
+    padding: 3px;
+    position: absolute;
+    left: 30%;
+    border: solid;
+}
+
+button{
+    
+    font-size: 17px;
+    padding: 5px;
+    border: solid #000000;
+}
+
+textarea{
+    font-size: 17px;
+    padding:  3px;
+    border: solid;
+
+}
